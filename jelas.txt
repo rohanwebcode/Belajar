@@ -1,2 +1,3 @@
 helooo world
 saya sedang belajar github.
+1. membuat website yang responsive
