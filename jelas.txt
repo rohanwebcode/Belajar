@@ -1,3 +1,4 @@
 helooo world
 saya sedang belajar github.
-1. membuat website yang responsive
+1. membuat website yang responsive. serta interface yang bagus.
+2. menguasahai bahasa pemrograman yang unggul di berbagai profesi website developer.
