@@ -1,9 +1,8 @@
 beljar bahasa pemrograman
 -html
 -css
--javascript
--C++
--C#
+-javascript: dengan framework react saja
+-C++ : ini bahasa pemrograman yang lebih baik daripada c#
 -Java
 -ruby
 -python
