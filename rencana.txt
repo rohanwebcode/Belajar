@@ -3,6 +3,7 @@ beljar bahasa pemrograman
 -css
 -javascript: dengan framework = react dan next js
 -php: dengan framework = laravel
+-C++ : ini bahasa pemrograman yang lebih baik daripada c#
 -C#: lebh bagus c# daripada c++
 -Java
 -ruby
